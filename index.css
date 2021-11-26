@@ -1,0 +1,23 @@
+body {
+  position: relative;
+  text-align: center;
+}
+header {
+  display:flex
+}
+main{
+  display: flex;
+}
+form {
+  border: 1px solid black;
+}
+footer{
+  display: flex;
+}
+.form-label {
+  display: block;
+  padding:4px
+}
+.form-submit {
+  text-align: center;
+}
